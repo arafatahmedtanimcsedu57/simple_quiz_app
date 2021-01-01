@@ -37,7 +37,7 @@ export default function Home() {
                     {userDetails
                         ? <Link
                             to={{
-                                pathname: "/quiz",
+                                pathname: "/simple_quiz_app/quiz",
                             }}
                             className="link link--sign-in"
                         >
@@ -45,7 +45,7 @@ export default function Home() {
                     </Link>
                         : <Link
                             to={{
-                                pathname: "/login",
+                                pathname: "/simple_quiz_app/login",
                             }}
                             className="link link--sign-in"
                         >

@@ -28,14 +28,14 @@ function nav(props) {
                         return
                     }}
                     to={{
-                        pathname: "/login",
+                        pathname: "/simple_quiz_app/login",
                     }}
                     className="link link--nav"
                 >
                     Sign out
                 </Link> : <Link
                         to={{
-                            pathname: "/login",
+                            pathname: "/simple_quiz_app/login",
                         }}
                         className="link link--nav"
                     >

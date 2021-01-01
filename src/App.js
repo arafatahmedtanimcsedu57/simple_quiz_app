@@ -33,10 +33,10 @@ function App() {
       <div className="App">
         <Router>
           <Switch>
-            <Route path="/" exact component={Home} />
-            <PrivateRoute path="/quiz" exact component={Quiz} />
-            <AdminRoute path="/admin-action" exact component={AdminAction} />
-            <Route path="/login" exact component={Login} />
+            <Route path="/simple_quiz_app" exact component={Home} />
+            <PrivateRoute path="/simple_quiz_app/quiz" exact component={Quiz} />
+            <AdminRoute path="/simple_quiz_app/admin-action" exact component={AdminAction} />
+            <Route path="/simple_quiz_app/login" exact component={Login} />
             <Route component={() => <h1>Not Found</h1>} />
           </Switch>
         </Router>

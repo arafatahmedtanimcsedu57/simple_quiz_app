@@ -30,8 +30,8 @@ function Login(props) {
             //loginUser action makes the request and handles all the neccessary state changes
             let response = loginUser(dispatch, payload)
             if (!response) return
-            if (response.role === "1") props.history.push('/quiz')
-            if (response.role === "2") props.history.push("/admin-action")
+            if (response.role === "1") props.history.push('/simple_quiz_app/quiz')
+            if (response.role === "2") props.history.push("/simple_quiz_app/admin-action")
         } catch (error) {
             console.log(error)
         }
