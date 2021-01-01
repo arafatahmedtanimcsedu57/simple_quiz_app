@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/simple_quiz_app/static/css/main.74115aba.chunk.css",
-    "main.js": "/simple_quiz_app/static/js/main.18e3a818.chunk.js",
-    "main.js.map": "/simple_quiz_app/static/js/main.18e3a818.chunk.js.map",
-    "runtime-main.js": "/simple_quiz_app/static/js/runtime-main.a5f362a0.js",
-    "runtime-main.js.map": "/simple_quiz_app/static/js/runtime-main.a5f362a0.js.map",
+    "main.js": "/simple_quiz_app/static/js/main.91b17569.chunk.js",
+    "main.js.map": "/simple_quiz_app/static/js/main.91b17569.chunk.js.map",
+    "runtime-main.js": "/simple_quiz_app/static/js/runtime-main.91669241.js",
+    "runtime-main.js.map": "/simple_quiz_app/static/js/runtime-main.91669241.js.map",
     "static/js/2.062738c3.chunk.js": "/simple_quiz_app/static/js/2.062738c3.chunk.js",
     "static/js/2.062738c3.chunk.js.map": "/simple_quiz_app/static/js/2.062738c3.chunk.js.map",
     "static/js/3.6b3c8ca5.chunk.js": "/simple_quiz_app/static/js/3.6b3c8ca5.chunk.js",
@@ -13,8 +13,8 @@
     "static/js/4.5a21fc94.chunk.js": "/simple_quiz_app/static/js/4.5a21fc94.chunk.js",
     "static/js/4.5a21fc94.chunk.js.map": "/simple_quiz_app/static/js/4.5a21fc94.chunk.js.map",
     "static/css/5.10b1a01e.chunk.css": "/simple_quiz_app/static/css/5.10b1a01e.chunk.css",
-    "static/js/5.171883b4.chunk.js": "/simple_quiz_app/static/js/5.171883b4.chunk.js",
-    "static/js/5.171883b4.chunk.js.map": "/simple_quiz_app/static/js/5.171883b4.chunk.js.map",
+    "static/js/5.d5e839c6.chunk.js": "/simple_quiz_app/static/js/5.d5e839c6.chunk.js",
+    "static/js/5.d5e839c6.chunk.js.map": "/simple_quiz_app/static/js/5.d5e839c6.chunk.js.map",
     "static/css/6.8fc969f6.chunk.css": "/simple_quiz_app/static/css/6.8fc969f6.chunk.css",
     "static/js/6.f490bdcb.chunk.js": "/simple_quiz_app/static/js/6.f490bdcb.chunk.js",
     "static/js/6.f490bdcb.chunk.js.map": "/simple_quiz_app/static/js/6.f490bdcb.chunk.js.map",
@@ -31,9 +31,9 @@
     "static/media/result_banner.212ce656.svg": "/simple_quiz_app/static/media/result_banner.212ce656.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5f362a0.js",
+    "static/js/runtime-main.91669241.js",
     "static/js/2.062738c3.chunk.js",
     "static/css/main.74115aba.chunk.css",
-    "static/js/main.18e3a818.chunk.js"
+    "static/js/main.91b17569.chunk.js"
   ]
 }
